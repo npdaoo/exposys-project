@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+video {
+  max-width: 100%;
+  width: 850px;
+  align-content: center;
+  padding: 20px;
+
+  
+}
+div{
+	text-align: center;
+}
+h1,h4{
+    font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+	text-shadow: 2px;
+	text-underline-position: all;
+}
+.user{
+	max-width: 100%;
+	width: 300px;
+	position: absolute;
+	
+}
